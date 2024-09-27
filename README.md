@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Tatev!
-<img src="grad.jpg" alt="profile pic" width="300">
 
 ## Recent Graduate and Aspiring Data Scientist
 
