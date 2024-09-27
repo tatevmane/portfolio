@@ -23,7 +23,7 @@ As a recent graduate, I am eager to break into the field of Data Science.
   
 - **Frameworks & Libraries:** NLTK, Matplotlib, Numpy, Pandas, XGBoost, PyTorch, scikit-learn, SpaCy
   
-- **Tools:** AWS, Git, Notion, Apache Spark, Tableau, Looker, Excel, Inkscape, Observable
+- **Tools:** Tableau, Looker, Excel, AWS, Git, Notion, Apache Spark, Inkscape, Observable
   
 - **Specialties:** Data Visualization & Insights, NLP
 
