@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Tatev!
 
 ## Recent Graduate and Aspiring Data Scientist
-📍 DMV
-📧 Email: tatevgomtsyan@gmail.com
-🔗 LinkedIn: Tatev G
-👨‍💻 GitHub: tatevmane
+📍 DMV  <br /> 
+📧 Email: tatevgomtsyan@gmail.com  <br /> 
+🔗 LinkedIn: Tatev G  <br /> 
+👨‍💻 GitHub: tatevmane 
 
 ### About Me
-As a recent graduate, I am eager to break into the field of Data Science. 
+I am eager to break into the field of Data Science and gain professional work experience after learning about cutting-edge technology in the classroom. 
 
 ### Education 🎓                                    	
 - **Masters in Data Science**, University of Virginia (UVA)
