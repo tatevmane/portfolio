@@ -4,11 +4,6 @@ Hi 👋 My name is Tatev Gomtsyan
 Recent Data Science Graduate
 ----------------------------
 
-📍 DMV  <br /> 
-📧 Email: tatevgomtsyan@gmail.com  <br /> 
-🔗 LinkedIn: Tatev G  <br /> 
-👨‍💻 GitHub: tatevmane 
-
 ### About Me
 I am eager to break into the field of Data Science and gain professional work experience after learning about cutting-edge technology in the classroom. 
 
@@ -40,6 +35,8 @@ I am eager to break into the field of Data Science and gain professional work ex
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/tatevmane" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tatev-g-a2b72413a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@tatevdoesdata" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+
+📧 Email: tatevgomtsyan@gmail.com  <br />  
 
 ### Badges
 
